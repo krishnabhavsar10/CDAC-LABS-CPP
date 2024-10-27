@@ -1,0 +1,19 @@
+PG-DAC CPP-LabAssement1 - 40Marks.
+
+Q1. Write a program that calculates the average 
+marks of all subjects. The numbers of subjects 
+'n' is accepted from the user. Allocate memory 
+dynamically for 'n' intergers. 
+Free the memorywhen not in use.
+
+Q2. Write a program which accepts two integers in main().
+Pass these as arguments to function max().
+In max(),find the maximum of these two numbers and using a return statement, 
+return the address of the maximum number and print it in main().
+
+Q3. Write a program to count number of objects created for above class 
+Complex.Use static data member and member function.
+
+Q4. Accept n numbers from users and store them in 
+to dynamically allocated array, Write a function to 
+sort and display sorted array.
